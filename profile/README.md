@@ -80,13 +80,6 @@ If you find our work useful:
 
 ---
 
-## 🌍 Jurisdiction and Liability
-
-> This project is maintained by individuals based in **Australia** and is governed by the laws of **New South Wales, Australia**.  
-> By using this repository, you agree to hold the authors harmless from any claim or liability arising from your use or misuse of the software.
-
----
-
 ## 📦 Third-Party Strategies & Extensions
 
 > If you download or use trading strategies created by third parties via this platform or its ecosystem, those remain the responsibility of their respective authors.  
